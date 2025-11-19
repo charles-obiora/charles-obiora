@@ -8,6 +8,6 @@
 -  🧑‍🍳 I am a home chef
 - ⚽ My football team in Arsenal
 - 💪 I do press ups a lot
-**- Hobbies:** cooking, anime, fixing bugs and learning new stuff
+- **Hobbies:** cooking, anime, fixing bugs and learning new stuff
 
 
